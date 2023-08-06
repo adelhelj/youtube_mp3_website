@@ -46,14 +46,18 @@ YouTube MP3 Website is a simple web application built with Flask that allows use
 
 ```
 youtube_mp3_website/
-│   app.py
-│   requirements.txt
+│   app.py                <-- Flask application file
+│   requirements.txt      <-- List of required packages
+│   LICENSE               <-- MIT License file
+│   README.md             <-- Project documentation
+│   youtube_mp3_website.png <-- Project image
 │
 ├── static/
-│   └── styles.css
+│   └── styles.css        <-- CSS file for styling
 │
 └── templates/
-    └── index.html
+    └── index.html        <-- HTML template for the website
+
 ```
 
 ## Deployment
