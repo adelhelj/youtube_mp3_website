@@ -60,10 +60,6 @@ youtube_mp3_website/
 
 ```
 
-## Deployment
-
-You can deploy this app to a cloud platform such as Heroku or PythonAnywhere for free. Follow their respective documentation to deploy the Flask app.
-
 ## Disclaimer
 
 This application is intended for personal use only. Please respect copyright laws and use the downloaded audio files responsibly.
