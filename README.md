@@ -1,6 +1,10 @@
 # YouTube MP3 Website
 
-YouTube MP3 Website is a simple web application built with Flask that allows users to download the audio from YouTube videos in MP3 format. 
+YouTube MP3 Website is a simple web application built with Flask that allows users to download the audio from YouTube videos in MP3 format.
+
+<p align="center">
+  <img src="https://github.com/adelhelj/youtube_mp3_website/blob/main/youtube_mp3_website.png" width="65%">
+</p>
 
 ## Features
 
