@@ -18,7 +18,7 @@ def download_audio():
     output_path = './downloads'
     
     try:
-        # Use your existing Python code to download the audio
+        # Use Python script to download the audio
         yt = YouTube(youtube_url)
         stream = yt.streams.filter(only_audio=True, file_extension='mp4').first()
         if stream is not None:
